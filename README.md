@@ -1,7 +1,13 @@
-## Hi there 👋
+## 💻 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,react,nodejs,flask,postgres,docker,git,html,css" />
+</p>
 
 <!--
 **alon-greenshtein/alon-greenshtein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## Hi there 👋
 
 Here are some ideas to get you started:
 
