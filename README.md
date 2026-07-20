@@ -3,7 +3,7 @@
 💻 Building backend software and AI agents with a focus on clean, maintainable design.  
 🤝 Enjoy contributing to open-source projects and collaborating with the developer community.
 
-## 🤝 Open Source Contributions
+## Open Source Contributions
 
 🔗 **[Deadlink-Hunter](https://github.com/Deadlink-Hunter/Broken-Link-Website)** `TypeScript` `React` `Node.js`
 
@@ -13,7 +13,7 @@
 
 - Expanded Jest test coverage for business logic, data transformation, and dashboard visualization.
 
-## 🚀 Featured Projects
+## Featured Projects
 
 🤖 **[Open Source Issue Scout Agent](https://github.com/alon-greenshtein/open-source-issue-scout-agent)** `Python` `Google ADK` `GitHub MCP` `Gemini`
 
@@ -27,7 +27,7 @@
 
 - Restaurant order management platform.
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,react,nodejs,flask,postgres,docker,git,html,css" />
