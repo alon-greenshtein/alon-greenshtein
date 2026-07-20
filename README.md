@@ -1,6 +1,6 @@
 # Hi, I'm Alon Greenstein👋
 
-💻 Building backend software and AI agents with a focus on clean, maintainable design.
+💻 Building backend software and AI agents with a focus on clean, maintainable design.  
 🤝 Enjoy contributing to open-source projects and collaborating with the developer community.
 
 ## 🤝 Open Source Contributions
