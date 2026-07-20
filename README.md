@@ -1,16 +1,18 @@
+## 🤝 Open Source Contributions
+
+🔗 **[Deadlink-Hunter](https://github.com/Deadlink-Hunter/Broken-Link-Website)** `TypeScript` `React` `Node.js`
+
+- Contributed frontend and backend improvements, including UI enhancements and system-level bug fixes.
+
+🚌 **[Open Bus Map Search](https://github.com/hasadna/open-bus-map-search)** `TypeScript` `React` `Node.js`
+
+- Expanded Jest test coverage for business logic, data transformation, and dashboard visualization.
+
 ## 🚀 Featured Projects
 
 🤖 **[Open Source Issue Scout Agent](https://github.com/alon-greenshtein/open-source-issue-scout-agent)** `Python` `Google ADK` `GitHub MCP` `Gemini`
 
 - AI agent built for recommending open-source contribution opportunities.
-
-🔗 **[Deadlink-Hunter](https://github.com/Deadlink-Hunter/Broken-Link-Website)** *(Open Source Contribution)* `TypeScript` `React` `Node.js`
-
-- Contributed frontend and backend improvements, including UI enhancements and system-level bug fixes.
-
-🚌 **[Open Bus Map Search](https://github.com/hasadna/open-bus-map-search)** *(Open Source Contribution)* `TypeScript` `React` `Node.js`
-
-- Expanded Jest test coverage for business logic, data transformation, and dashboard visualization.
 
 🖼️ **[AI Ray Tracer](https://github.com/alon-greenshtein/ai-ray-tracer)** `Java`
 
