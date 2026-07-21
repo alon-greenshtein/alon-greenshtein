@@ -1,4 +1,4 @@
-# Hi, I'm Alon Greenstein👋
+# Hi, I'm Alon Greenstein 👋
 
 💻 Focused on backend software and AI agents with an emphasis on clean, maintainable design.   
 🤝 Enjoy contributing to open-source projects and collaborating with the developer community.
