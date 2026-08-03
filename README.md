@@ -19,7 +19,7 @@
 
 - AI agent built for recommending open-source contribution opportunities.
 
-✈️ **[Airport Investment Agent](https://github.com/alon-greenshtein/airport-investment-agent)** 'Python' 'Gemini' 'Pandas' 'Streamlit'
+✈️ **[Airport Investment Agent](https://github.com/alon-greenshtein/airport-investment-agent)** `Python` `Gemini` `Pandas` `Streamlit`
 
 - AI agent that ranks and compares U.S. airports by infrastructure investment potential using public aviation data.
 
