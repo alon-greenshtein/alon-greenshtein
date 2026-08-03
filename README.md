@@ -19,6 +19,10 @@
 
 - AI agent built for recommending open-source contribution opportunities.
 
+✈️ **[Airport Investment Agent](https://github.com/alon-greenshtein/airport-investment-agent)** 'Python' 'Gemini' 'Pandas' 'Streamlit'
+
+- AI agent that ranks and compares U.S. airports by infrastructure investment potential using public aviation data.
+
 🖼️ **[AI Ray Tracer](https://github.com/alon-greenshtein/ai-ray-tracer)** `Java`
 
 - Java-based 3D rendering engine for generating realistic images from complex scenes.
